@@ -1,0 +1,6 @@
+{
+  "name": "SAHAY.AI - Intelligent First-Contact Support for Victims",
+  "description": "AI-Based Real-Time Stress and Trauma Assessment Module for NHAA (14566) and Integrated Portals (Smart India Hackathon PS 26093).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
